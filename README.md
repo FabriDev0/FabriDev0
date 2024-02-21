@@ -52,7 +52,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,ableton,androidstudio,arduino,atom,blender,bootstrap,cs,cpp,css,debian,discord,bots,django,dotnet,flask,gamemakerstudio,godot,html,java,js,kotlin,linux,mysql,nodejs,notion,php,ps,powershell,py,robloxstudio,stackoverflow,sketchup,ubuntu,unity,unreal,visualstudio,vscode,windows,wordpress,&perline=14" />
   </a>
 </p>
 
