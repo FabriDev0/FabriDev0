@@ -24,13 +24,14 @@
 </div>
 
 <!--Intro start-->
-- 🔗 My official [web page](https://fabridev1.wordpress.com/)
-
-- 🔵 My [LinkedIn](https://www.linkedin.com/in/fabrizio-fiorentino-galv%C3%A1n-51ba482a5/)
-
+## About Me
 - 🛠️ I’m currently working on **PHP, MySQL, Bootstrap, HTML, CSS**
 
 - 💡 I’m currently learning **Music Production, Web development**
+
+- 🔗 My official [web page](https://fabridev1.wordpress.com/)
+
+- 🔵 My [LinkedIn](https://www.linkedin.com/in/fabrizio-fiorentino-galv%C3%A1n-51ba482a5/)
 
 - 📷 I upload videos sometimes on my [YouTube](https://www.youtube.com/channel/UCrjx2KlK3FJIRNzMkoBCjGA)
 
