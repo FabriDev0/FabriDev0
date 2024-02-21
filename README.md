@@ -24,27 +24,28 @@
 </div>
 
 <!--Intro start-->
-- 🔗 My official web page: **[(https://fabridev1.wordpress.com/)]**
+- 🔗 My official [web page](https://fabridev1.wordpress.com/)
 
-- 🔵 My LinkedIn: **[(https://www.linkedin.com/in/fabrizio-fiorentino-galv%C3%A1n-51ba482a5/)]**
+- 🔵 My [LinkedIn](https://www.linkedin.com/in/fabrizio-fiorentino-galv%C3%A1n-51ba482a5/)
 
 - 🛠️ I’m currently working on **PHP, MySQL, Bootstrap, HTML, CSS**
 
 - 💡 I’m currently learning **Music Production, Web development**
 
-- 📷 I upload videos sometimes on my YouTube channel: **[(https://www.youtube.com/channel/UCrjx2KlK3FJIRNzMkoBCjGA)]**
+- 📷 I upload videos sometimes on my [YouTube](https://www.youtube.com/channel/UCrjx2KlK3FJIRNzMkoBCjGA)
 
-- 🎵 I also upload music into my SoundCloud account: **[(https://soundcloud.com/fabri-dev)]**
+- 🎵 I also upload music into my [SoundCloud](https://soundcloud.com/fabri-dev)
 
-- 🏪 I upload my proyects on my Itch.io **[(https://fabridev.itch.io/)]**
+- 🏪 I upload my proyects on my [Itch.io](https://fabridev.itch.io/)
 
-- 🟣 I'm also on Twitch! **[(https://www.twitch.tv/fabrior8)]**
+- 🟣 I'm also on [Twitch](https://www.twitch.tv/fabrior8)
 
-- ⚡ Also my proyectos on my GameJolt: **[(https://gamejolt.com/@FabriDev)]**
+- ⚡ Also my proyectos on my [GameJolt](https://gamejolt.com/@FabriDev)
 
 - ✉️ Feel free to reach me out **fabridev.contacto@gmail.com**
 
-- ☕ You can donate me on my Ko-Fi **[(https://ko-fi.com/fabridev)]**
+- ☕ You can donate me on my [Ko-Fi](https://ko-fi.com/fabridev)
+<br>
 <!--Intro end-->
 
 <!--h1 without bottom border-->
