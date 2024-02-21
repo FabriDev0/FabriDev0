@@ -15,7 +15,7 @@
     <summary><h2 style="display: inline-block">Programmer, musician and content creator 🧉</h2></summary>
   </ul>
 </div>
-<img src="https://i.imgur.com/7ISyG5c.jpeg">
+<img src="https://i.imgur.com/ELJWDzq.jpeg">
 
 <!--Intro start-->
 ## About Me
