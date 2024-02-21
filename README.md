@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm FabriDev</h1></summary>
   </ul>
 </div>
 
@@ -26,19 +26,23 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔗 My official web page: **[(https://fabridev1.wordpress.com/)]**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🛠️ I’m currently working on **PHP, MySQL, Bootstrap, HTML, CSS**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 💡 I’m currently learning **Music Production, Web development**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 📷 I upload videos sometimes on my YouTube channel: **[(https://www.youtube.com/channel/UCrjx2KlK3FJIRNzMkoBCjGA)]**
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 🎵 I also upload music into my SoundCloud account: **[(https://soundcloud.com/fabri-dev)]**
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+- 🏪 I upload my proyects on my Itch.io **[(https://fabridev.itch.io/)]**
 
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
+- 🟣 I'm also on Twitch! **[(https://www.twitch.tv/fabrior8)]**
+
+- ⚡ Also my proyectos on my GameJolt: **[(https://gamejolt.com/@FabriDev)]**
+
+- ✉️ Feel free to reach me out **fabridev.contacto@gmail.com**
 <!--Intro end-->
 
 
