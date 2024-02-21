@@ -71,5 +71,8 @@
   
 </div>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=FabriDev&label=Profile%20Views&color=12&icon=1&pretty=true" />
+</a>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
